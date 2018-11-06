@@ -1,0 +1,17 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{1}
+\contentsline {subsection}{\numberline {1.1}Cenni storici}{1}
+\contentsline {subsection}{\numberline {1.2}Cenni teorici}{1}
+\contentsline {section}{\numberline {2}Descrizione dell'apparato sperimentale}{1}
+\contentsline {section}{\numberline {3}Esecuzione}{1}
+\contentsline {subsection}{\numberline {3.1}Misura Clockwise}{1}
+\contentsline {subsection}{\numberline {3.2}Misura Counter-clockwise}{1}
+\contentsline {subsection}{\numberline {3.3}Misura da CW a CCW}{1}
+\contentsline {section}{\numberline {4}Analisi statistica dei dati}{1}
+\contentsline {subsection}{\numberline {4.1}Clockwise parte 1}{1}
+\contentsline {subsection}{\numberline {4.2}Clockwise parte 2}{1}
+\contentsline {subsection}{\numberline {4.3}Counter-clockwise prima parte}{1}
+\contentsline {subsection}{\numberline {4.4}Counter-clockwise parte 2}{1}
+\contentsline {subsection}{\numberline {4.5}Da CCW a CW}{1}
+\contentsline {section}{\numberline {5}Conclusioni}{1}
